@@ -12,6 +12,7 @@ add_message_files(
   GeoPoseNavEulerWithCovarianceStamped.msg
   RadarScanline.msg
   RadarSector.msg
+  RadarSectorStamped.msg
 )
 
 generate_messages(
