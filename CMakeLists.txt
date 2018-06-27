@@ -13,6 +13,8 @@ add_message_files(
   RadarScanline.msg
   RadarSector.msg
   RadarSectorStamped.msg
+  KeyValue.msg
+  Heartbeat.msg
 )
 
 generate_messages(
