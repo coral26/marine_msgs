@@ -15,6 +15,7 @@ add_message_files(
   RadarSectorStamped.msg
   KeyValue.msg
   Heartbeat.msg
+  Contact.msg
 )
 
 generate_messages(
