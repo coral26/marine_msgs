@@ -16,6 +16,7 @@ add_message_files(
   KeyValue.msg
   Heartbeat.msg
   Contact.msg
+  Helm.msg
 )
 
 generate_messages(
