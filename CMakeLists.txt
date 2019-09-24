@@ -17,6 +17,8 @@ add_message_files(
   Heartbeat.msg
   Contact.msg
   Helm.msg
+  CourseMadeGood.msg
+  CourseMadeGoodStamped.msg
 )
 
 generate_messages(
