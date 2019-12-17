@@ -17,12 +17,14 @@ add_message_files(
   Heartbeat.msg
   Contact.msg
   Helm.msg
+  CPA.msg
 )
 
 generate_messages(
   DEPENDENCIES
   std_msgs
   geographic_msgs
+  geometry_msgs
 )
 
 catkin_package(CATKIN_DEPENDS message_runtime)
