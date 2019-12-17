@@ -17,7 +17,7 @@ add_message_files(
   Heartbeat.msg
   Contact.msg
   Helm.msg
-  CPA.ms
+  CPA.msg
   CourseMadeGood.msg
   CourseMadeGoodStamped.msg
 )
